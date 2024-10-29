@@ -20,7 +20,7 @@ This project is a launch page designed to showcase a fantastic product. It utili
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mrochelle23/Launch-Page.git
+   git clone https://github.com/mrochelle23/launch-page.git
    cd Launch-Page
    ```
 
